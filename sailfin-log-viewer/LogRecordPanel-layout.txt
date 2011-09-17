@@ -1,0 +1,13 @@
+Time: XXXXXXXXXXXXXX     Server type: XXXXXXXXXXXX
+Log level: FINEST        Log domain: XXXXXXXXXXXX
+Thread ID: NNN           Thread name: XXXXXXXXXX
+Class: CCCCCCCCCCCCCCCCC Method: XXXXXXXXXXXXX Parameters: XXXXXXXXXXXXXX
+Request ID: RRRRRRRRRRRRR
+
++-Message---------------------------------------------------------------------+
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
+|                                                                             |
++-----------------------------------------------------------------------------+
